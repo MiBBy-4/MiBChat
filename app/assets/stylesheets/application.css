@@ -53,7 +53,7 @@ body {
   height: 100vh;
   margin-right: 0px !important;
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: hidden;
 }
 
 .msg-content {
